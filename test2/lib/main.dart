@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
             final provinceNameWithType = province["name_with_type"];
             // print(provinceNameWithType);
             return ListTile(
-              title: Text(provinceNameWithType + " qui test",
+              title: Text(provinceNameWithType + " trieu test 1",
                 style: TextStyle(color: Colors.black),
               ),
 
